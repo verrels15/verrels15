@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Verrels! 
-- 📚 I’m a current sophomore at Pomona College interested in majoring in Computer Science. 
+- 📚 I’m a current junior at Pomona College interested in majoring in Computer Science. 
 - 🌱 I’m currently trying learning Java!
 - 📫 How to reach me: vlea2021@mymail.pomona.edu
 
